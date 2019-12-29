@@ -34,7 +34,7 @@ public class DepartmentListController implements Initializable{
 	
 	@FXML
 	public void onBtNewAction() {
-		System.out.println("BtAction");
+		System.out.println("BtNewAction");
 	}
 	
 	public void setDepartmentService(DepartmentService service) {
